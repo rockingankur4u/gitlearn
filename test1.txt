@@ -3,4 +3,8 @@ git testing is going on 4
 git testing is going on 5
 git testing is going on 6
 git testing is going on 7
+<<<<<<< HEAD
 git testing is going on 9
+=======
+git testing is going on 8
+>>>>>>> fdcfc441a355bbe39530d9d4c2515faf7b1a1acb
