@@ -1,5 +1,7 @@
 test_new_changes_on_master1.txt
 <<<<<<< HEAD
 test_new_changes_on_master3.txt
+
+test_new_changes_on_master4.txt
 =======
 >>>>>>> e376834fbfb91de748949ca26f21d4c2b5ecad57
